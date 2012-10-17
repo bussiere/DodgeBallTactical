@@ -5,3 +5,17 @@ Passer
 Defendre / Attraper
 Concentrer son ki
 
+Systeme de cases avec des éléments.
+
+Charger la balle avec des éléments.
+
+Heros ont des éléments.
+
+Systeme de bulles.
+
+Bulle + grande Attaque =  + attaque
+
+Bulle + grande Defense =  + Defense
+
+Penetration bulle : la plus faible bulle gagne et malus sur la bulle adverse.
+
